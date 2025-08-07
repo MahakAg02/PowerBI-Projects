@@ -2,8 +2,7 @@
 ## Customer, Product, Revenue & Risk Insights | Power BI Project | DAX | Data Modeling
 
 **🚀 Overview**
-This project simulates a real-world e-commerce analytics scenario, where I played the role of a _Business Intelligence Analyst for AdventureWorks_ — a fictional multi-region online retailer. The goal was to transform raw, unstructured datasets into an automated dashboard that provides key insights into:
-actionable insights into:
+This project simulates a real-world e-commerce analytics scenario, where I played the role of a _Business Intelligence Analyst for AdventureWorks_ — a fictional multi-region online retailer. The goal was to transform raw, unstructured datasets into an automated dashboard that provides actionable insights into:
 - Revenue and profit trends
 - Product-level performance
 - Customer segmentation and lifetime value
